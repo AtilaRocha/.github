@@ -1,6 +1,6 @@
 # Repositório de Arquivos Padrão de Integridade da Comunidade
 
-Este repositório contém arquivos padrão para melhorar a integridade da comunidade e padronizar a contribuição em todos os repositórios pertencentes a esta conta ou organização. Inclui:
+Este repositório contém arquivos padrão para melhorar a integridade e padronizar a contribuição em todos os repositórios pertencentes a esta conta ou organização. Inclui:
 
 - Modelos de Pull Request
 - Modelos de Issues
